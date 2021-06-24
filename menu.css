@@ -1,9 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap");
 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 50px;
+}
+
 body {
   margin: 0 auto;
   background-color: wheat;
-  font-family: "Bubblegum Sans", cursive;
+  font-family: "Bubblegum Sans";
 }
 
 .zone {
@@ -47,7 +52,6 @@ a {
 }
 
 h1 {
-  margin-top: 70px;
   text-align: center;
   font-size: 50px;
 }
