@@ -1,129 +1,127 @@
 @import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
 * {
   margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
 body {
-  background-color: white;
+  background-image: url('images/indoor.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .grid-container {
-  height: 100vh;
-  margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: 0.2fr 1.5fr 0.2fr;
+  height: 100vh;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto 3px 1fr 0.5fr 0.5fr auto;
   grid-template-areas:
-    "header header header header"
-    "sidebar main main main"
-    "footer footer footer footer";
-  gap: 0.2rem;
-}
-
-/* navbar styles */
-
-.header {
-  background-color: #540b0e;
-  grid-area: header;
-  display: flex;
-  justify-content: space-between;
+    "logo nav"
+    "line line"
+    "main main"
+    "menu menu "
+    "socmed socmed"
+    "footer footer";
 }
 
 .logo {
+  padding: 20px;
+  background: linear-gradient(to top, black, #3c1518);
+  grid-area: logo;
   display: flex;
-  font-family: 'Tenor Sans', sans-serif;  
-  font-size: 1rem;
-  text-transform: uppercase;  
-  color: #e09f3e;
-  width: 30%;
   justify-content: center;
   align-items: center;
+  text-transform: uppercase;
+  text-shadow: #FC0 1px 0 10px;
+  font-family: 'Tenor Sans', sans-serif;
+  color: #e09f3e
 }
 
 .nav {
-  width: 70%;
-  list-style: none;
+  padding: 20px;
+  background: linear-gradient(to top, black, #3c1518);
+  grid-area: nav;
   display: flex;
-  justify-content: space-evenly; 
+  justify-content: space-evenly;
   align-items: center;
 }
 
-a {
+.nav-button {
   font-family: 'Tenor Sans', sans-serif;
-   color: #fff3b0;
-   text-decoration: none;
-   font-size: 1.2rem;
-   text-transform: uppercase;
+  font-size: 1.2rem;
+  color: #f2f3ae;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 a:hover {
-    color: #e09f3e;
+  color: #e09f3e;
 }
 
-/* main content styles */
+.line {
+  grid-area: line;
+  background: linear-gradient(45deg, red, blue);
+}
 
 .main {
   grid-area: main;
 }
 
-.sidebar {
-  grid-area: sidebar;
+.contents, .menu-contents, .socmed-contents {
+  font-family: Quicksand, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-h2 {
-  text-align: center;
+.content1, .menu-content1, .socmed-content1 {
+  max-width: 700px;
+  margin: 2rem;
+  padding: 50px;
+  border-radius: 5px;
+  line-height: 2;
+  background-color: white;
 }
 
-.main, .sidebar {
-  background-color: #fff3b0;
-  padding: 10px;
-  font-family: 'Tenor Sans', sans-serif;
-  line-height: 1.5;
+.menu {
+  grid-area: menu;
 }
 
-ul {
-  margin: 30px;
+.socmed {
+  grid-area: socmed;
 }
 
 .footer {
-  background-color: #540b0e;
+  padding: 20px;
+  background: linear-gradient(to bottom, black, #3c1518);
   grid-area: footer;
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: 'Tenor Sans', sans-serif;
-  color: #e09f3e;
   text-align: center;
+  color: #f2f3ae
 }
 
-/* responsive */
-
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 550px) {
   .grid-container {
     grid-template-columns: 1fr;
-    grid-template-rows: 0.4fr 1fr 2fr 75px;
+    grid-template-rows: 0.4fr 3px 0.4fr 2fr 0.5fr 0.5fr 0.4fr;
     grid-template-areas:
-      "header"
-      "sidebar"
+      "logo"
+      "line"
+      "nav"
       "main"
+      "menu"
+      "socmed"
       "footer";
   }
   
-  .header {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-  
   .logo {
-    margin-top: 15px;
-  }
-  
-  .nav {
-    width: 100%;
-    margin: 10px auto;
+    background: linear-gradient(to bottom, black, #3c1518);
   }
 }
