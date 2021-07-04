@@ -71,14 +71,14 @@ a:hover {
   grid-area: main;
 }
 
-.contents, .menu-contents, .socmed-contents {
+.contents {
   font-family: Quicksand, sans-serif;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.content1, .menu-content1, .socmed-content1 {
+.content1 {
   max-width: 700px;
   margin: 2rem;
   padding: 50px;
@@ -93,6 +93,25 @@ a:hover {
 
 .socmed {
   grid-area: socmed;
+}
+
+.menu-contents, .socmed-contents {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.menu-content1 {
+  padding: 20px;
+  background: linear-gradient(45deg, pink, purple);
+  border-radius: 10px;
+  opacity: 0.8;
+}
+
+.icon {
+  height:100px;
+  width:100px;
 }
 
 .footer {
