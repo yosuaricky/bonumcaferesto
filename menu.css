@@ -1,74 +1,161 @@
-@import url("https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 
 html {
-  scroll-behavior: smooth;
-  scroll-padding-top: 50px;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: white;
 }
+
 
 body {
-  margin: 0 auto;
-  background-color: wheat;
-  font-family: "Bubblegum Sans";
+    height: 100vh;
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: overlay;
+    background-attachment: fixed;
 }
 
-.zone {
-  cursor: pointer;
-  font-size: 2em;
+
+.grid-container {
+    margin-top: 55px;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 1fr 0.5fr;
+    grid-template-rows: 0.5fr 1fr 0.5fr;
+    grid-template-areas: 
+    ". logo nav ."
+    ". main main ."
+    ". footer footer .";
 }
 
-.main-nav {
-  display: flex;
-  list-style: none;
-  font-size: 1em;
-  margin: 0;
-  padding: 0px;
+
+.logo {
+    grid-area: logo;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 3em;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
-@media only screen and (max-width: 600px) {
-  .main-nav {
-    font-size: 0.7em;
-  }
+
+.nav {
+    grid-area: nav;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
-.brown {
-  background: brown;
+.nav-button {
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 1em;
+    text-transform: uppercase;
 }
 
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
+
+
+#btn-active-home {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
 }
 
-li {
-  margin: auto;
-  padding: 5px;
+
+#btn-active-home:hover {
+    background-color: transparent;
+    color: white;
 }
 
-a {
-  text-decoration: none;
+
+.nav-button > a {
+    text-decoration: none;
+    color: white;
+    padding: 5px 15px;
+    border: 1px solid transparent;
+    
 }
 
-h1 {
-  text-align: center;
-  font-size: 50px;
-  margin-top: 70px;
+
+.nav-button > a:hover {
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
 }
 
-h2 {
-  text-align: center;
-  font-size: 18px;
+
+.main {
+    grid-area: main;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    line-height: 2;
 }
 
-th {
-  font-size: 30px;
+
+h3 {
+    text-align: center;
 }
 
-.subheader {
-  font-size: 20px;
+
+.main > div {
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 20px;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1em;
+    margin: 25px;
 }
 
-.center {
-  margin-left: auto;
-  margin-right: auto;
+.tea, .coffee, .milkshake, .mojito, .juice, .cream, .dll {
+    background-color: white;
+    color: black;
 }
+
+
+.footer {
+    margin-bottom: 10px;
+    grid-area: footer;
+    justify-self: center;
+    align-self: end;
+    opacity: 0.3;
+    font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 700px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.2fr 0.2fr 1fr 0.2fr;
+        grid-template-areas: 
+        "logo"
+        "nav"
+        "main"
+        "footer";
+    }
+
+    .logo, .nav {
+        margin: 20px;
+        justify-content: space-evenly;
+    }
+
+    .main > p {
+        font-size: 1em;
+    }
+}
+
+
+

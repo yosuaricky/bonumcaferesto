@@ -1,146 +1,171 @@
 @import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
 
 * {
-  margin: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+
+html {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
 
 body {
-  background-image: url('images/indoor.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+    height: 100vh;
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: overlay;
 }
+
 
 .grid-container {
-  display: grid;
-  height: 100vh;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: auto 3px 1fr 0.5fr 0.5fr auto;
-  grid-template-areas:
-    "logo nav"
-    "line line"
-    "main main"
-    "menu menu "
-    "socmed socmed"
-    "footer footer";
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 1fr 0.5fr;
+    grid-template-rows: 0.4fr 1fr 0.4fr;
+    grid-template-areas: 
+    ". logo nav ."
+    ". main main ."
+    ". footer footer .";
 }
+
 
 .logo {
-  padding: 20px;
-  background: linear-gradient(to top, black, #3c1518);
-  grid-area: logo;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-transform: uppercase;
-  text-shadow: #FC0 1px 0 10px;
-  font-family: 'Tenor Sans', sans-serif;
-  color: #e09f3e
+    grid-area: logo;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 3em;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
+
 .nav {
-  padding: 20px;
-  background: linear-gradient(to top, black, #3c1518);
-  grid-area: nav;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
+    grid-area: nav;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .nav-button {
-  font-family: 'Tenor Sans', sans-serif;
-  font-size: 1.2rem;
-  color: #f2f3ae;
-  text-decoration: none;
-  text-transform: uppercase;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 1em;
+    text-transform: uppercase;
 }
 
-a:hover {
-  color: #e09f3e;
+
+
+#btn-active-home {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
 }
 
-.line {
-  grid-area: line;
-  background: linear-gradient(45deg, red, blue);
+
+#btn-active-home:hover {
+    background-color: transparent;
+    color: white;
 }
+
+
+.nav-button > a {
+    text-decoration: none;
+    color: white;
+    padding: 5px 15px;
+    border: 1px solid transparent;
+    
+}
+
+
+.nav-button > a:hover {
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
+}
+
 
 .main {
-  grid-area: main;
+    grid-area: main;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
-.contents {
-  font-family: Quicksand, sans-serif;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+
+
+.main > p {
+    line-height: 3;
+    padding: 15px;
+    text-align: left;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.5em;
 }
 
-.content1 {
-  max-width: 700px;
-  margin: 2rem;
-  padding: 50px;
-  border-radius: 5px;
-  line-height: 2;
-  background-color: white;
+
+.btn-menu {
+    margin: 2em;
 }
 
-.menu {
-  grid-area: menu;
+
+.btn-menu > a {
+    padding: 20px;
+    background-color: white;
+    font-family: 'Julius Sans One', sans-serif;
+    color: black;
+    border-radius: 30px;
+    text-decoration: none;
 }
 
-.socmed {
-  grid-area: socmed;
+
+
+.btn-menu > a:hover {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
 }
 
-.menu-contents, .socmed-contents {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 20px;
-}
-
-.menu-content1 {
-  padding: 20px;
-  background: linear-gradient(45deg, pink, purple);
-  border-radius: 10px;
-  opacity: 0.8;
-}
-
-.icon {
-  height:100px;
-  width:100px;
-}
 
 .footer {
-  padding: 20px;
-  background: linear-gradient(to bottom, black, #3c1518);
-  grid-area: footer;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: 'Tenor Sans', sans-serif;
-  text-align: center;
-  color: #f2f3ae
+    margin-bottom: 10px;
+    grid-area: footer;
+    justify-self: center;
+    align-self: end;
+    opacity: 0.3;
+    font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
 }
 
-@media only screen and (max-width: 550px) {
-  .grid-container {
-    grid-template-columns: 1fr;
-    grid-template-rows: 0.4fr 3px 0.4fr 2fr 0.5fr 0.5fr 0.4fr;
-    grid-template-areas:
-      "logo"
-      "line"
-      "nav"
-      "main"
-      "menu"
-      "socmed"
-      "footer";
-  }
-  
-  .logo {
-    background: linear-gradient(to bottom, black, #3c1518);
-  }
+
+@media only screen and (max-width: 700px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: 0.2fr 0.2fr 1fr 0.2fr;
+        grid-template-areas: 
+        "logo"
+        "nav"
+        "main"
+        "footer";
+    }
+
+    .logo, .nav {
+        margin: 20px;
+        justify-content: space-evenly;
+    }
+
+    .main > p {
+        font-size: 1em;
+    }
 }
+
+
+
