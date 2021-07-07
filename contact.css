@@ -106,7 +106,7 @@ body {
 .main > p {
     line-height: 3;
     padding: 15px;
-    text-align: left;
+    text-align: center;
     font-family: 'Julius Sans One', sans-serif;
     font-size: 1.5em;
 }
@@ -119,17 +119,16 @@ body {
 
 .btn-menu > a {
     padding: 20px;
-    background-color: orange;
+    background: linear-gradient(to right, orangered, purple);
     font-family: 'Julius Sans One', sans-serif;
-    color: black;
+    color: white;
     border-radius: 30px;
     text-decoration: none;
 }
 
 
-
 .btn-menu > a:hover {
-    background-color: transparent;
+    background: transparent;
     border: 1px solid orangered;
     color: white;
 }
@@ -165,6 +164,3 @@ body {
         font-size: 1em;
     }
 }
-
-
-
