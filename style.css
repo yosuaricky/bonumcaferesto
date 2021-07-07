@@ -111,6 +111,14 @@ body {
     font-size: 1.5em;
 }
 
+.loc {
+    line-height: 3;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.5em;
+}
+
 
 .btn-menu {
     margin: 2em;
@@ -144,6 +152,30 @@ body {
     text-align: center;
 }
 
+
+.btn-follow {
+    margin: 2em;
+    font-size: 0.7em;
+}
+
+
+.btn-follow > a {
+    padding: 20px;
+    background: linear-gradient(to right, orangered, purple);
+    font-family: 'Julius Sans One', sans-serif;
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+
+.btn-follow > a:hover {
+    background: transparent;
+    border: 1px solid orangered;
+    color: white;
+}
+
+
 /* responsive */
 @media only screen and (max-width: 700px) {
     .grid-container {
@@ -162,6 +194,10 @@ body {
     }
 
     .main > p {
+        font-size: 1em;
+    }
+
+    .loc {
         font-size: 1em;
     }
 }
