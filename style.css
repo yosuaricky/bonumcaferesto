@@ -142,22 +142,6 @@ body {
     color: white;
 }
 
-/* footer styles */
-.footer {
-    grid-area: footer;
-    justify-self: center;
-    align-self: end;
-    opacity: 0.3;
-    font-family: 'Julius Sans One', sans-serif;
-    text-align: center;
-}
-
-
-.btn-follow {
-    margin: 2em;
-    font-size: 0.7em;
-}
-
 
 .btn-follow > a {
     padding: 20px;
@@ -176,6 +160,23 @@ body {
 }
 
 
+/* footer styles */
+.footer {
+    grid-area: footer;
+    justify-self: center;
+    align-self: end;
+    opacity: 0.3;
+    font-family: 'Julius Sans One', sans-serif;
+    text-align: center;
+}
+
+
+.btn-follow {
+    margin: 2em;
+    font-size: 0.7em;
+}
+
+
 /* responsive */
 @media only screen and (max-width: 700px) {
     .grid-container {
@@ -188,15 +189,18 @@ body {
         "footer";
     }
 
+
     .logo, .nav {
         margin: 10px;
         justify-content: space-evenly;
     }
 
+
     .main > p {
         font-size: 1em;
     }
 
+    
     .loc {
         font-size: 1em;
     }

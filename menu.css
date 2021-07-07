@@ -27,11 +27,10 @@ body {
 
 /* layout */
 .grid-container {
-    margin-top: 55px;
     height: 100vh;
     display: grid;
     grid-template-columns: 0.5fr 1fr 1fr 0.5fr;
-    grid-template-rows: 0.5fr 1fr 0.5fr;
+    grid-template-rows: 0.4fr 1fr 0.4fr;
     grid-template-areas: 
     ". logo nav ."
     ". main main ."
@@ -126,7 +125,6 @@ h3 {
 
 
 .footer {
-    margin-bottom: 10px;
     grid-area: footer;
     justify-self: center;
     align-self: end;
