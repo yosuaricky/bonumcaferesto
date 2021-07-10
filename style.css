@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap");
 
 * {
     margin: 0;
@@ -7,17 +7,15 @@
     box-sizing: border-box;
 }
 
-
 html {
     font-family: sans-serif;
     font-size: 14px;
     color: white;
 }
 
-
 body {
     height: 100vh;
-    background-image: url('images/background.jpg');
+    background-image: url("images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgba(0, 0, 0, 0.8);
@@ -30,16 +28,16 @@ body {
     display: grid;
     grid-template-columns: 0.5fr 1fr 1fr 0.5fr;
     grid-template-rows: 0.4fr 1fr 0.4fr;
-    grid-template-areas: 
-    ". logo nav ."
-    ". main main ."
-    ". footer footer .";
+    grid-template-areas:
+        ". logo nav ."
+        ". main main ."
+        ". footer footer .";
 }
 
 /* logo styles */
 .logo {
     grid-area: logo;
-    font-family: 'Tenor Sans', sans-serif;
+    font-family: "Tenor Sans", sans-serif;
     font-size: 3em;
     text-transform: uppercase;
     display: flex;
@@ -56,12 +54,10 @@ body {
 }
 
 .nav-button {
-    font-family: 'Tenor Sans', sans-serif;
+    font-family: "Tenor Sans", sans-serif;
     font-size: 1em;
     text-transform: uppercase;
 }
-
-
 
 #btn-active-home {
     background-color: white;
@@ -69,21 +65,17 @@ body {
     border-radius: 20px;
 }
 
-
 #btn-active-home:hover {
     background-color: transparent;
     color: white;
 }
-
 
 .nav-button > a {
     text-decoration: none;
     color: white;
     padding: 5px 15px;
     border: 1px solid transparent;
-    
 }
-
 
 .nav-button > a:hover {
     border: 1px solid white;
@@ -101,13 +93,11 @@ body {
     justify-content: center;
 }
 
-
-
 .main > p {
     line-height: 3;
     padding: 15px;
     text-align: left;
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: "Julius Sans One", sans-serif;
     font-size: 1.5em;
 }
 
@@ -115,26 +105,22 @@ body {
     line-height: 3;
     padding: 15px;
     text-align: center;
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: "Julius Sans One", sans-serif;
     font-size: 1.5em;
 }
-
 
 .btn-menu {
     margin: 2em;
 }
 
-
 .btn-menu > a {
     padding: 20px;
     background-color: orange;
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: "Julius Sans One", sans-serif;
     color: black;
     border-radius: 30px;
     text-decoration: none;
 }
-
-
 
 .btn-menu > a:hover {
     background-color: transparent;
@@ -142,16 +128,14 @@ body {
     color: white;
 }
 
-
 .btn-follow > a {
     padding: 20px;
     background: linear-gradient(to right, orangered, purple);
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: "Julius Sans One", sans-serif;
     color: white;
     border-radius: 30px;
     text-decoration: none;
 }
-
 
 .btn-follow > a:hover {
     background: transparent;
@@ -159,52 +143,44 @@ body {
     color: white;
 }
 
-
 /* footer styles */
 .footer {
     grid-area: footer;
     justify-self: center;
     align-self: end;
     opacity: 0.3;
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: "Julius Sans One", sans-serif;
     text-align: center;
 }
-
 
 .btn-follow {
     margin: 2em;
     font-size: 0.7em;
 }
 
-
 /* responsive */
 @media only screen and (max-width: 700px) {
     .grid-container {
         grid-template-columns: 1fr;
         grid-template-rows: 0.2fr 0.2fr 1fr 0.2fr;
-        grid-template-areas: 
-        "logo"
-        "nav"
-        "main"
-        "footer";
+        grid-template-areas:
+            "logo"
+            "nav"
+            "main"
+            "footer";
     }
 
-
-    .logo, .nav {
+    .logo,
+    .nav {
         margin: 10px;
         justify-content: space-evenly;
     }
-
 
     .main > p {
         font-size: 1em;
     }
 
-    
     .loc {
         font-size: 1em;
     }
 }
-
-
-
