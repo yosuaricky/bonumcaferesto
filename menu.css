@@ -15,7 +15,7 @@ html {
 
 body {
   height: 100vh;
-  background-image: url('images/background.jpg');
+  background-image: url('images/main-bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-color: rgba(0, 0, 0, 0.8);
@@ -106,6 +106,15 @@ h3 {
   font-family: 'Julius Sans One', sans-serif;
   font-size: 1em;
   margin: 25px;
+}
+
+.trad, 
+.chicken, 
+.beef, 
+.noodle, 
+.rice, 
+.snack {
+  background-color: rgba(0, 0, 0, 0.8)
 }
 
 .tea,
