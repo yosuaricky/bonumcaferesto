@@ -7,12 +7,12 @@ const menuPricelist = [
       {
         nama: 'Nasi Gudeg Yogya',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-gudeg-yogya.webp',
       },
       {
         nama: 'Nasi Gudeg Yogya Komplit',
         harga: 'Rp 28.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-gudeg-komplit.webp',
       },
       {
         nama: 'Nasi Gudeg Ayam',
@@ -32,7 +32,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Krawu Gresik',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-krawu.webp',
       },
       {
         nama: 'Nasi Bebek Suramadu',
@@ -42,7 +42,7 @@ const menuPricelist = [
       {
         nama: 'Bebek Penyet Sambal Korek',
         harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/bebek-penyet-sambal-korek.webp',
       },
       {
         nama: 'Tahu Tempe Bacem',
@@ -72,17 +72,17 @@ const menuPricelist = [
       {
         nama: 'Ayam Bakar Bumbu Rujak ¼',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/ayam-bakar.webp',
       },
       {
         nama: 'Ayam Bakar Bumbu Rujak ½',
         harga: 'Rp 45.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/ayam-bakar.webp',
       },
       {
         nama: 'Ayam Bakar Bumbu Rujak 1 Ekor',
         harga: 'Rp 90.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/ayam-bakar.webp',
       },
       {
         nama: 'Nasi Ayam Geprek',
@@ -97,7 +97,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Daun Jeruk Kulit Goreng',
         harga: 'Rp 20.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-daun-jeruk-kulit-goreng.webp',
       },
     ],
   },
@@ -132,7 +132,7 @@ const menuPricelist = [
       {
         nama: 'Mie Goreng Telur',
         harga: 'Rp 20.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/mie-goreng-telur.webp',
       },
       {
         nama: 'Mie Goreng Seafood',
@@ -172,12 +172,12 @@ const menuPricelist = [
       {
         nama: 'Beef Bowl Sambal Matah',
         harga: 'Rp 30.000',
-        url: './assets/img/beef-bowl.jpg',
+        url: './assets/img/beef-bowl.webp',
       },
       {
         nama: 'Dori Bowl Sambal Matah',
         harga: 'Rp 30.000',
-        url: './assets/img/dori.jpg',
+        url: './assets/img/dori.webp',
       },
       {
         nama: 'Nasi Goreng Rumahan',
@@ -197,12 +197,12 @@ const menuPricelist = [
       {
         nama: 'Nasi Siram Udang',
         harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-siram-udang.webp',
       },
       {
         nama: 'Nasi Udang Oseng',
         harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-udang-oseng.webp',
       },
       {
         nama: 'Nasi Seafood Oseng',
@@ -232,7 +232,7 @@ const menuPricelist = [
       {
         nama: 'Hot Dog',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/hot-dog.webp',
       },
       {
         nama: 'French Fries',
@@ -265,9 +265,9 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Pisang Cripsy',
+        nama: 'Pisang Crispy',
         harga: 'Rp 15.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/pisang-crispy.webp',
       },
       {
         nama: 'Pisang Goreng Srikaya',
