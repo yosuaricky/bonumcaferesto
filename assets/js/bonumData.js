@@ -37,7 +37,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Bebek Suramadu',
         harga: 'Rp 35.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-bebek-suramadu.webp',
       },
       {
         nama: 'Bebek Penyet Sambal Korek',
@@ -62,7 +62,7 @@ const menuPricelist = [
       {
         nama: 'Ayam Betutu Bali ½',
         harga: 'Rp 45.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/ayam-betutu-setengah.webp',
       },
       {
         nama: 'Ayam Betutu Bali 1 Ekor',
@@ -192,7 +192,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Goreng Seafood',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-goreng-seafood.webp',
       },
       {
         nama: 'Nasi Siram Udang',
@@ -207,7 +207,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Seafood Oseng',
         harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-seafood-oseng.webp',
       },
       {
         nama: 'Nasi Putih',
