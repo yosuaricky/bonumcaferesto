@@ -22,7 +22,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Ayam Semarang',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-ayam-semarang.webp',
       },
       {
         nama: 'Nasi Liwet Solo',
@@ -142,7 +142,7 @@ const menuPricelist = [
       {
         nama: 'Kwetiau Siram Telur',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/kwetiau-siram-telur.webp',
       },
       {
         nama: 'Kwetiau Siram Seafood',
@@ -172,7 +172,7 @@ const menuPricelist = [
       {
         nama: 'Beef Bowl Sambal Matah',
         harga: 'Rp 30.000',
-        url: './assets/img/beef-bowl.webp',
+        url: './assets/img/beef-bowl-sambal-matah.webp',
       },
       {
         nama: 'Dori Bowl Sambal Matah',
