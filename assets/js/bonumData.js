@@ -47,7 +47,7 @@ const menuPricelist = [
       {
         nama: 'Tahu Tempe Bacem',
         harga: 'Rp 5.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/tahu-tempe-bacem.webp',
       },
     ],
   },
