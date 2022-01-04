@@ -157,7 +157,7 @@ const menuPricelist = [
       {
         nama: 'Kwetiau Goreng Seafood',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/kwetiau-goreng-seafood.webp',
       },
     ],
   },
@@ -187,7 +187,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Goreng Putih',
         harga: 'Rp 20.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-goreng-putih.webp',
       },
       {
         nama: 'Nasi Goreng Seafood',
