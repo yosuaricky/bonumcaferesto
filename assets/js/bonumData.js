@@ -182,7 +182,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Goreng Rumahan',
         harga: '20.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-goreng-rumahan.webp',
       },
       {
         nama: 'Nasi Goreng Putih',
