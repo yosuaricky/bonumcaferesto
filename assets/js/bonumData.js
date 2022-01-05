@@ -32,7 +32,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Krawu Gresik',
         harga: 'Rp 25.000',
-        url: './assets/img/nasi-krawu.webp',
+        url: './assets/img/nasi-krawu-gresik.webp',
       },
       {
         nama: 'Nasi Bebek Suramadu',
