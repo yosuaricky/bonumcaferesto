@@ -17,7 +17,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Gudeg Ayam',
         harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-gudeg-ayam.webp',
       },
       {
         nama: 'Nasi Ayam Semarang',
