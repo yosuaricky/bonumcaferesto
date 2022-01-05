@@ -280,9 +280,9 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Pempek Dos Goreng (10pcs)',
+        nama: 'Pempek Sagu Goreng (10pcs)',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/pempek-sagu.webp',
       },
       {
         nama: 'Geblek Singkong (20pcs)',
