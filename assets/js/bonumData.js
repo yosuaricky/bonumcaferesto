@@ -2,6 +2,16 @@ const info = 'Please wash hand, wear mask, and maintain social distancing.';
 
 const menuPricelist = [
   {
+    category: 'Bonum Special Menu',
+    menu: [
+      {
+        nama: 'Bonum Beef Pepper Rice',
+        harga: 'Rp. 45.000',
+        url: './assets/img/beef-pepper-rice-blackbg.png',
+      },
+    ],
+  },
+  {
     category: 'Tradisional',
     menu: [
       {
