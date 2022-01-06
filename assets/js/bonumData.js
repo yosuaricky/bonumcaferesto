@@ -57,7 +57,7 @@ const menuPricelist = [
       {
         nama: 'Ayam Betutu Bali ¼',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/ayam-betutu-seperempat.webp',
       },
       {
         nama: 'Ayam Betutu Bali ½',
