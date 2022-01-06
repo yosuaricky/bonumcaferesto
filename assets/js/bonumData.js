@@ -211,7 +211,7 @@ const menuPricelist = [
       },
       {
         nama: 'Nasi Putih',
-        harga: 'Rp 6000',
+        harga: 'Rp 6.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
