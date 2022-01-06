@@ -657,12 +657,12 @@ const menuPricelist = [
       {
         nama: 'CocaCola / Fanta / Sprite',
         harga: 'Rp 5.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/cocacola-fanta-sprite.webp',
       },
       {
         nama: 'Premier Alkaline Oxygen Water',
         harga: 'Rp 8.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/premier-alkaline.webp',
       },
     ],
   },
