@@ -107,12 +107,12 @@ const menuPricelist = [
       {
         nama: 'Sop Iga',
         harga: 'Rp 35.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/sop-iga-sapi.webp',
       },
       {
         nama: 'Iga Bakar',
         harga: 'Rp 40.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/iga-bakar.webp',
       },
     ],
   },
@@ -247,7 +247,7 @@ const menuPricelist = [
       {
         nama: 'Snack Platter',
         harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/snack-platter.webp',
       },
       {
         nama: 'Indomie Mentai Crispy Chicken',
@@ -292,22 +292,22 @@ const menuPricelist = [
       {
         nama: 'Roti Bakar Choco Crunchy',
         harga: 'Rp 12.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/roti-bakar.webp',
       },
       {
         nama: 'Roti Bakar Cokelat Keju',
         harga: 'Rp 15.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/roti-bakar.webp',
       },
       {
         nama: 'Roti Bakar Keju',
         harga: 'Rp 12.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/roti-bakar.webp',
       },
       {
         nama: 'Roti Bakar Blueberry',
         harga: 'Rp 12.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/roti-bakar.webp',
       },
     ],
   },
