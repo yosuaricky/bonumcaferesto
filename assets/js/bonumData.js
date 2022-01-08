@@ -37,7 +37,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Liwet Solo',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-liwet-solo.webp',
       },
       {
         nama: 'Nasi Krawu Gresik',
