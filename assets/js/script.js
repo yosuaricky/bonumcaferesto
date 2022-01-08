@@ -29,7 +29,7 @@ menuPricelist.forEach((item, index) => {
     aria-labelledby="flush-heading${index}"
     data-bs-parent="#accordionFlushExample"
   >
-    <div class="accordion-body"><em>*choose menu to show details</em></div>
+    <div class="accordion-body"><em>*click menu to show details</em></div>
   </div>
 `;
   accordion.append(accordionItem);
