@@ -360,6 +360,16 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
+        nama: 'Creamy Thai Tea',
+        harga: 'Rp 18.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Milky Green Tea',
+        harga: 'Rp 13.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
         nama: 'Hot Lemon Blue Tea',
         harga: 'Rp 12.000',
         url: './assets/img/image-coming-soon.webp',
