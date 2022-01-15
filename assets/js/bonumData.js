@@ -297,7 +297,7 @@ const menuPricelist = [
       {
         nama: 'Geblek Singkong (20pcs)',
         harga: 'Rp 20.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/geblek-singkong.webp',
       },
       {
         nama: 'Roti Bakar Choco Crunchy',
