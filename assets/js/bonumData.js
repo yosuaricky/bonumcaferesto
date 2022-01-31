@@ -8,7 +8,7 @@ const menuPricelist = [
       {
         nama: 'Bonum Beef Pepper Rice',
         harga: 'Rp. 45.000',
-        url: './assets/img/beef-pepper-rice-bonumbg.png',
+        url: './assets/img/beef-pepper-rice-bonumbg.jpg',
       },
     ],
   },
