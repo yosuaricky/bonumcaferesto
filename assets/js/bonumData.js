@@ -1,5 +1,4 @@
-const info =
-  /*'Please wash hand, wear mask, and maintain social distancing.'*/ 'We are closed on 01 February 2022. Business will resume on 02 February 2022. Thank you!';
+const info = 'Please wash hand, wear mask, and maintain social distancing.';
 
 const menuPricelist = [
   {
