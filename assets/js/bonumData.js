@@ -665,6 +665,21 @@ const menuPricelist = [
     category: 'Soft Drink',
     menu: [
       {
+        nama: 'Sarsaparilla',
+        harga: 'Rp 15.000',
+        url: './assets/img/agungngoro-sarsaparilla.webp',
+      },
+      {
+        nama: 'Coffee Beer (non-alcoholic)',
+        harga: 'Rp 15.000',
+        url: './assets/img/agungngoro-coffeebeer.webp',
+      },
+      {
+        nama: 'Agung Ngoro Temulawak',
+        harga: 'Rp 15.000',
+        url: './assets/img/agungngoro-temulawak.webp',
+      },
+      {
         nama: 'Happy Soda',
         harga: 'Rp 15.000',
         url: './assets/img/image-coming-soon.webp',
