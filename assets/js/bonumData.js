@@ -483,12 +483,12 @@ const menuPricelist = [
       },
       {
         nama: 'Kopi Susu Gula Aren Panas',
-        harga: 'Rp 18.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Es Kopi Susu Gula Aren',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
