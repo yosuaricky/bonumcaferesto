@@ -318,7 +318,7 @@ const menuPricelist = [
       },
       {
         nama: 'Roti Bakar Blueberry',
-        harga: 'Rp 12.000',
+        harga: 'Rp 15.000',
         url: './assets/img/roti-bakar.webp',
       },
     ],
