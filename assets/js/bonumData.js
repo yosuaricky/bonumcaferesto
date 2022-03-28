@@ -1,6 +1,4 @@
-const info =
-  "Dear customers, due to maintenance work, we are closed from 24 - 27 March 2022. We'll be open again on 28 March 2022. Thank you.";
-//'Please wash hand, wear mask, and maintain social distancing.';
+const info = 'Please wash hand, wear mask, and maintain social distancing.';
 
 const menuPricelist = [
   {
