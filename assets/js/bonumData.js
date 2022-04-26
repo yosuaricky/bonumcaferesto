@@ -1,4 +1,6 @@
-const info = 'Please wash hand, wear mask, and maintain social distancing.';
+const info =
+  'Dalam rangka Hari Raya Idul Fitri 1443 Hijriyah, Bonum Cafe & Resto tutup pada tanggal 1 Mei 2022 - 4 Mei 2022, buka kembali pada tanggal 5 Mei 2022. Selamat Hari Raya Idul Fitri, mohon maaf lahir dan batin.';
+//'Please wash hand, wear mask, and maintain social distancing.'
 
 const menuPricelist = [
   {
