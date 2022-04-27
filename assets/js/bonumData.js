@@ -57,7 +57,7 @@ const menuPricelist = [
         url: './assets/img/bebek-penyet-sambal-korek.webp',
       },
       {
-        nama: 'Nasi Paru Babat Gongso Semarangan',
+        nama: 'Nasi Paru Babat Gongso',
         harga: 'Rp 40.000',
         url: './assets/img/nasi-paru-babat-gongso.webp',
       },
