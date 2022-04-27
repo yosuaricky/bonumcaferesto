@@ -102,6 +102,21 @@ const menuPricelist = [
         url: './assets/img/ayam-bakar.webp',
       },
       {
+        nama: 'Ayam Bakar Lodho ¼',
+        harga: 'Rp 25.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Ayam Bakar Lodho ½',
+        harga: 'Rp 45.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Ayam Bakar Lodho 1 Ekor',
+        harga: 'Rp 90.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
         nama: 'Nasi Ayam Geprek',
         harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
