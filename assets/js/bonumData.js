@@ -60,6 +60,11 @@ const menuPricelist = [
         url: './assets/img/nasi-paru-babat-gongso.webp',
       },
       {
+        nama: 'Sego Babat Khas Sidoarjo',
+        harga: 'Rp 40.000',
+        url: './assets/img/sego-babat.webp',
+      },
+      {
         nama: 'Tahu Tempe Bacem',
         harga: 'Rp 5.000',
         url: './assets/img/tahu-tempe-bacem.webp',
