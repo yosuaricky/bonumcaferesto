@@ -65,6 +65,11 @@ const menuPricelist = [
         url: './assets/img/sego-babat.webp',
       },
       {
+        nama: 'Nasi Tutug Oncom',
+        harga: 'Rp 30.000',
+        url: './assets/img/nasi-tutug-oncom.webp',
+      },
+      {
         nama: 'Tahu Tempe Bacem',
         harga: 'Rp 5.000',
         url: './assets/img/tahu-tempe-bacem.webp',
