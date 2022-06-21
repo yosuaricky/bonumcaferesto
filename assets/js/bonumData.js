@@ -316,7 +316,7 @@ const menuPricelist = [
       },
       {
         nama: 'Lumpia Goreng (2pcs)',
-        harga: 'Rp 15.000',
+        harga: 'Rp 12.000',
         url: './assets/img/lumpia-goreng.webp',
       },
       {
