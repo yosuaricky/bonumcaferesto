@@ -315,9 +315,9 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Risoles Mayo (2pcs)',
-        harga: 'Rp 10.000',
-        url: './assets/img/image-coming-soon.webp',
+        nama: 'Lumpia Goreng (2pcs)',
+        harga: 'Rp 15.000',
+        url: './assets/img/lumpia-goreng.webp',
       },
       {
         nama: 'Pempek Sagu Goreng (10pcs)',
