@@ -81,32 +81,32 @@ const menuPricelist = [
     menu: [
       {
         nama: 'Ayam Betutu Bali ¼',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/ayam-betutu-seperempat.webp',
       },
       {
         nama: 'Ayam Betutu Bali ½',
-        harga: 'Rp 45.000',
+        harga: 'Rp 50.000',
         url: './assets/img/ayam-betutu-setengah.webp',
       },
       {
         nama: 'Ayam Betutu Bali 1 Ekor',
-        harga: 'Rp 90.000',
+        harga: 'Rp 95.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ayam Bakar Bumbu Rujak ¼',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/ayam-bakar.webp',
       },
       {
         nama: 'Ayam Bakar Bumbu Rujak ½',
-        harga: 'Rp 45.000',
+        harga: 'Rp 50.000',
         url: './assets/img/ayam-bakar.webp',
       },
       {
         nama: 'Ayam Bakar Bumbu Rujak 1 Ekor',
-        harga: 'Rp 90.000',
+        harga: 'Rp 95.000',
         url: './assets/img/ayam-bakar.webp',
       },
       {
