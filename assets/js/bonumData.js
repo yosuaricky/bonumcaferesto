@@ -6,7 +6,7 @@ const menuPricelist = [
     menu: [
       {
         nama: 'Bonum Beef Pepper Rice',
-        harga: 'Rp. 45.000',
+        harga: 'Rp. 50.000',
         url: './assets/img/beef-pepper-rice-bonumbg.jpg',
       },
     ],
@@ -16,62 +16,62 @@ const menuPricelist = [
     menu: [
       {
         nama: 'Nasi Gudeg Yogya',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/nasi-gudeg-yogya.webp',
       },
       {
         nama: 'Nasi Gudeg Yogya Komplit',
-        harga: 'Rp 28.000',
+        harga: 'Rp 33.000',
         url: './assets/img/nasi-gudeg-komplit.webp',
       },
       {
         nama: 'Nasi Gudeg Ayam',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/nasi-gudeg-ayam.webp',
       },
       {
         nama: 'Nasi Ayam Semarang',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/nasi-ayam-semarang.webp',
       },
       {
         nama: 'Nasi Liwet Solo',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/nasi-liwet-solo.webp',
       },
       {
         nama: 'Nasi Krawu Gresik',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/nasi-krawu-gresik.webp',
       },
       {
         nama: 'Nasi Bebek Suramadu',
-        harga: 'Rp 35.000',
+        harga: 'Rp 40.000',
         url: './assets/img/nasi-bebek-suramadu.webp',
       },
       {
         nama: 'Bebek Penyet Sambal Korek',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/bebek-penyet-sambal-korek.webp',
       },
       {
         nama: 'Nasi Paru Babat Gongso',
-        harga: 'Rp 40.000',
+        harga: 'Rp 45.000',
         url: './assets/img/nasi-paru-babat-gongso.webp',
       },
       {
         nama: 'Sego Babat Khas Sidoarjo',
-        harga: 'Rp 40.000',
+        harga: 'Rp 45.000',
         url: './assets/img/sego-babat.webp',
       },
       {
         nama: 'Nasi Tutug Oncom',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/nasi-tutug-oncom.webp',
       },
       {
         nama: 'Tahu Tempe Bacem',
-        harga: 'Rp 5.000',
+        harga: 'Rp 10.000',
         url: './assets/img/tahu-tempe-bacem.webp',
       },
     ],
@@ -81,62 +81,62 @@ const menuPricelist = [
     menu: [
       {
         nama: 'Ayam Betutu Bali ¼',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/ayam-betutu-seperempat.webp',
       },
       {
         nama: 'Ayam Betutu Bali ½',
-        harga: 'Rp 50.000',
+        harga: 'Rp 55.000',
         url: './assets/img/ayam-betutu-setengah.webp',
       },
       {
         nama: 'Ayam Betutu Bali 1 Ekor',
-        harga: 'Rp 95.000',
+        harga: 'Rp 100.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ayam Bakar Bumbu Rujak ¼',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/ayam-bakar.webp',
       },
       {
         nama: 'Ayam Bakar Bumbu Rujak ½',
-        harga: 'Rp 50.000',
+        harga: 'Rp 55.000',
         url: './assets/img/ayam-bakar.webp',
       },
       {
         nama: 'Ayam Bakar Bumbu Rujak 1 Ekor',
-        harga: 'Rp 95.000',
+        harga: 'Rp 100.000',
         url: './assets/img/ayam-bakar.webp',
       },
       {
         nama: 'Ayam Bakar Lodho ¼',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ayam Bakar Lodho ½',
-        harga: 'Rp 45.000',
+        harga: 'Rp 50.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ayam Bakar Lodho 1 Ekor',
-        harga: 'Rp 90.000',
+        harga: 'Rp 95.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Nasi Ayam Geprek',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Nasi Telur Geprek',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Nasi Daun Jeruk Kulit Goreng',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/nasi-daun-jeruk-kulit-goreng.webp',
       },
     ],
@@ -146,12 +146,12 @@ const menuPricelist = [
     menu: [
       {
         nama: 'Sop Iga',
-        harga: 'Rp 35.000',
+        harga: 'Rp 40.000',
         url: './assets/img/sop-iga-sapi.webp',
       },
       {
         nama: 'Iga Bakar',
-        harga: 'Rp 40.000',
+        harga: 'Rp 45.000',
         url: './assets/img/iga-bakar.webp',
       },
     ],
@@ -161,42 +161,42 @@ const menuPricelist = [
     menu: [
       {
         nama: 'Lo Mie Ayam',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Lo Mie Seafood',
-        harga: 'Rp 27.000',
+        harga: 'Rp 32.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Mie Goreng Telur',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/mie-goreng-telur.webp',
       },
       {
         nama: 'Mie Goreng Seafood',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Kwetiau Siram Telur',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/kwetiau-siram-telur.webp',
       },
       {
         nama: 'Kwetiau Siram Seafood',
-        harga: 'Rp 27.000',
+        harga: 'Rp 32.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Kwetiau Goreng Telur',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Kwetiau Goreng Seafood',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/kwetiau-goreng-seafood.webp',
       },
     ],
@@ -206,52 +206,57 @@ const menuPricelist = [
     menu: [
       {
         nama: 'Rice Bowl Teriyaki',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Beef Bowl Sambal Matah',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/beef-bowl-sambal-matah.webp',
       },
       {
         nama: 'Dori Bowl Sambal Matah',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/dori.webp',
       },
       {
         nama: 'Nasi Goreng Rumahan',
-        harga: '20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/nasi-goreng-rumahan.webp',
       },
       {
         nama: 'Nasi Goreng Putih',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/nasi-goreng-putih.webp',
       },
       {
         nama: 'Nasi Goreng Seafood',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/nasi-goreng-seafood.webp',
       },
       {
         nama: 'Nasi Siram Udang',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/nasi-siram-udang.webp',
       },
       {
         nama: 'Nasi Udang Oseng',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/nasi-udang-oseng.webp',
       },
       {
         nama: 'Nasi Seafood Oseng',
-        harga: 'Rp 30.000',
+        harga: 'Rp 35.000',
         url: './assets/img/nasi-seafood-oseng.webp',
       },
       {
         nama: 'Nasi Putih',
         harga: 'Rp 6.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Nasi Tutug',
+        harga: 'Rp 7.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -323,11 +328,6 @@ const menuPricelist = [
         nama: 'Pempek Sagu Goreng (10pcs)',
         harga: 'Rp 25.000',
         url: './assets/img/pempek-sagu.webp',
-      },
-      {
-        nama: 'Geblek Singkong (20pcs)',
-        harga: 'Rp 20.000',
-        url: './assets/img/geblek-singkong.webp',
       },
       {
         nama: 'Roti Bakar Choco Crunchy',
