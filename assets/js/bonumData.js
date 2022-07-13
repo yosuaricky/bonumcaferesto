@@ -71,7 +71,7 @@ const menuPricelist = [
       },
       {
         nama: 'Tahu Tempe Bacem',
-        harga: 'Rp 10.000',
+        harga: 'Rp 7.000',
         url: './assets/img/tahu-tempe-bacem.webp',
       },
     ],
@@ -251,17 +251,17 @@ const menuPricelist = [
       },
       {
         nama: 'Nasi Putih',
-        harga: 'Rp 6.000',
+        harga: 'Rp 8.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Nasi Tutug',
-        harga: 'Rp 7.000',
+        harga: 'Rp 9.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Nasi Daun Jeruk',
-        harga: 'Rp 7.000',
+        harga: 'Rp 9.000',
         url: './assets/img/image-coming-soon.webp',
       },
     ],
