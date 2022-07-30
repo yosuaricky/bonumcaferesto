@@ -325,6 +325,11 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
+        nama: 'Risol Mayo (2pcs)',
+        harga: 'Rp 12.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
         nama: 'Lumpia Goreng (2pcs)',
         harga: 'Rp 12.000',
         url: './assets/img/lumpia-goreng.webp',
@@ -392,6 +397,26 @@ const menuPricelist = [
       {
         nama: 'Teh Jahe',
         harga: 'Rp 7.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Susu Jahe Sereh Panas',
+        harga: 'Rp 12.000',
+        url: './assets/img/susu-jahe-sereh-panas.webp',
+      },
+      {
+        nama: 'Es Susu Jahe Sereh',
+        harga: 'Rp 14.000',
+        url: './assets/img/image-coming-soon.webp'
+      },
+      {
+        nama: 'Teh Lemon Jahe Sereh Panas',
+        harga: 'Rp 12.000',
+        url: './assets/img/teh-lemon-jahe-sereh-panas.webp'
+      },
+      {
+        nama: 'Es Teh Lemon Jahe Sereh',
+        harga: 'Rp 14.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -570,6 +595,11 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
+        nama: 'Red Velvet Milkshake',
+        harga: 'Rp 20.000',
+        url: './assets/img/red-velvet-milkshake.webp',
+      },
+      {
         nama: 'Chocolate Milkshake',
         harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
@@ -588,6 +618,16 @@ const menuPricelist = [
         nama: 'Ice Chocolate',
         harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Ice Chocolate Strawberry',
+        harga: 'Rp 20.000',
+        url: './assets/img/ice-choco-strawberry.webp',
+      },
+      {
+        nama: 'Ice Ovaltine Macchiato',
+        harga: 'Rp 25.000',
+        url: './assets/img/ice-ovaltine-macchiato.webp',
       },
       {
         nama: 'Ice Taro',
