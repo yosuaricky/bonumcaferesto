@@ -1,4 +1,5 @@
-const info = 'Please wash hand, wear mask, and maintain social distancing.';
+const info = 'Bonum Cafe & Resto 2nd Anniversary! 🎊'
+//'Please wash hand, wear mask, and maintain social distancing.';
 
 const menuPricelist = [
   {
@@ -407,12 +408,12 @@ const menuPricelist = [
       {
         nama: 'Es Susu Jahe Sereh',
         harga: 'Rp 14.000',
-        url: './assets/img/image-coming-soon.webp'
+        url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Teh Lemon Jahe Sereh Panas',
         harga: 'Rp 12.000',
-        url: './assets/img/teh-lemon-jahe-sereh-panas.webp'
+        url: './assets/img/teh-lemon-jahe-sereh-panas.webp',
       },
       {
         nama: 'Es Teh Lemon Jahe Sereh',
@@ -776,6 +777,6 @@ const menuPricelist = [
       },
     ],
   },
-];
+]
 
-export { info, menuPricelist };
+export { info, menuPricelist }
