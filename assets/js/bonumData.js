@@ -1,5 +1,4 @@
-const info = 'Bonum Cafe & Resto 3rd Anniversary! 🎊'
-//'Please wash hand, wear mask, and maintain social distancing.';
+const info = 'Please wash hand, wear mask, and maintain social distancing.';
 
 const menuPricelist = [
   {
