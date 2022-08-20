@@ -1,5 +1,4 @@
-const info = 'Dirgahayu Republik Indonesia! Pulih Lebih Cepat, Bangkit Lebih Kuat 🟥⬜'
-//'Please wash hand, wear mask, and maintain social distancing.';
+const info = 'Please wash hand, wear mask, and maintain social distancing.';
 
 const menuPricelist = [
   {
