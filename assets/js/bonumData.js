@@ -205,6 +205,11 @@ const menuPricelist = [
     category: 'Aneka Olahan Nasi',
     menu: [
       {
+        nama: 'Rice Bowl Taichan',
+        harga: 'Rp 35.000',
+        url: './assets/img/rice-bowl-taichan.webp',
+      },
+      {
         nama: 'Rice Bowl Teriyaki',
         harga: 'Rp 35.000',
         url: './assets/img/image-coming-soon.webp',
@@ -305,7 +310,7 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Pancake Durian (2pcs)',
+        nama: 'Pancake Durian',
         harga: 'Rp 20.000',
         url: './assets/img/pancake-durian.webp',
       },
