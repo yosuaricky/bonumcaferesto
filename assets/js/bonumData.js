@@ -1,4 +1,4 @@
-const info = 'Please wash hand, wear mask, and maintain social distancing.';
+const info = 'Please wash hand, wear mask, and maintain social distancing.'
 
 const menuPricelist = [
   {
@@ -8,6 +8,16 @@ const menuPricelist = [
         nama: 'Bonum Beef Pepper Rice',
         harga: 'Rp. 50.000',
         url: './assets/img/beef-pepper-rice-bonumbg.jpg',
+      },
+      {
+        nama: 'Bonum Chicken Steak',
+        harga: 'Rp. 45.000',
+        url: './assets/img/bonum-chicken-steak.jpg',
+      },
+      {
+        nama: 'Bonum Chicken Katsu',
+        harga: 'Rp. 40.000',
+        url: './assets/img/bonum-chicken-katsu.jpg',
       },
     ],
   },
