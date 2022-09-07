@@ -242,7 +242,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Goreng Hongkong',
         harga: 'Rp 30.000',
-        url: './assets/img/hongkong.webp',
+        url: './assets/img/nasi-goreng-hongkong.webp',
       },
       {
         nama: 'Nasi Goreng Rumahan',
