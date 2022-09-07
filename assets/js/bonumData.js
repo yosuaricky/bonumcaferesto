@@ -240,6 +240,11 @@ const menuPricelist = [
         url: './assets/img/dori.webp',
       },
       {
+        nama: 'Nasi Goreng Hongkong',
+        harga: 'Rp 30.000',
+        url: './assets/img/hongkong.webp',
+      },
+      {
         nama: 'Nasi Goreng Rumahan',
         harga: 'Rp 25.000',
         url: './assets/img/nasi-goreng-rumahan.webp',
