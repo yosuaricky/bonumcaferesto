@@ -5,6 +5,11 @@ const menuPricelist = [
     category: 'Bonum Special Menu',
     menu: [
       {
+        nama: 'Bonum Sirloin Meltique',
+        harga: 'Rp. 55.000 (100gr) | Rp. 70.000 (200gr)',
+        url: './assets/img/bonum-sirloin-meltique.webp',
+      },
+      {
         nama: 'Bonum Beef Pepper Rice',
         harga: 'Rp. 50.000',
         url: './assets/img/beef-pepper-rice-bonumbg.jpg',
