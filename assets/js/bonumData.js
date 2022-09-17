@@ -45,6 +45,11 @@ const menuPricelist = [
         url: './assets/img/nasi-gudeg-ayam.webp',
       },
       {
+        nama: 'Nasi Gudeg Telur',
+        harga: 'Rp 25.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
         nama: 'Nasi Ayam Semarang',
         harga: 'Rp 30.000',
         url: './assets/img/nasi-ayam-semarang.webp',
