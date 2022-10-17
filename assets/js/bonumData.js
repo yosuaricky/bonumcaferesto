@@ -53,7 +53,7 @@ const menuPricelist = [
       {
         nama: 'Nasi Gudeg Telur',
         harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/nasi-gudeg-telur.webp',
       },
       {
         nama: 'Nasi Ayam Semarang',
@@ -379,6 +379,11 @@ const menuPricelist = [
         nama: 'Pempek Sagu Goreng (10pcs)',
         harga: 'Rp 25.000',
         url: './assets/img/pempek-sagu.webp',
+      },
+      {
+        nama: 'Pempek Kapal Selam',
+        harga: 'Rp 27.000',
+        url: './assets/img/pempek-kapal-selam.webp',
       },
       {
         nama: 'Roti Bakar Choco Crunchy',
