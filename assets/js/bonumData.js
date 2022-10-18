@@ -71,6 +71,11 @@ const menuPricelist = [
         url: './assets/img/nasi-krawu-gresik.webp',
       },
       {
+        nama: 'Ayam Asap Khas Bali (Klungkung)',
+        harga: 'Rp 40.000',
+        url: './assets/img/ayam-klungkung.webp',
+      },
+      {
         nama: 'Nasi Bebek Suramadu',
         harga: 'Rp 40.000',
         url: './assets/img/nasi-bebek-suramadu.webp',
