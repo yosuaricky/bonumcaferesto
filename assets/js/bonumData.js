@@ -596,11 +596,6 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Es Kopi Klepon',
-        harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
         nama: 'Hot Green Tea Latte',
         harga: 'Rp 15.000',
         url: './assets/img/image-coming-soon.webp',
