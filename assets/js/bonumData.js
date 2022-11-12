@@ -316,16 +316,6 @@ const menuPricelist = [
     category: 'Snack',
     menu: [
       {
-        nama: 'Burger Kampung',
-        harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Hot Dog',
-        harga: 'Rp 25.000',
-        url: './assets/img/hot-dog.webp',
-      },
-      {
         nama: 'French Fries',
         harga: 'Rp 15.000',
         url: './assets/img/image-coming-soon.webp',
@@ -339,11 +329,6 @@ const menuPricelist = [
         nama: 'Snack Platter',
         harga: 'Rp 30.000',
         url: './assets/img/snack-platter.webp',
-      },
-      {
-        nama: 'Indomie Mentai Crispy Chicken',
-        harga: 'Rp 20.000',
-        url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Fish & Chips',
