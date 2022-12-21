@@ -497,7 +497,7 @@ const menuPricelist = [
       },
       {
         nama: 'Peach Gum',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
       },
     ],
