@@ -356,11 +356,6 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Risol Mayo (2pcs)',
-        harga: 'Rp 12.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
         nama: 'Lumpia Goreng (2pcs)',
         harga: 'Rp 12.000',
         url: './assets/img/lumpia-goreng.webp',
