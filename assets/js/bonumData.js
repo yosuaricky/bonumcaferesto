@@ -25,11 +25,6 @@ const menuPricelist = [
         harga: 'Rp. 45.000',
         url: './assets/img/bonum-chicken-steak.webp',
       },
-      {
-        nama: 'Bonum Chicken Katsu',
-        harga: 'Rp. 40.000',
-        url: './assets/img/bonum-chicken-katsu.webp',
-      },
     ],
   },
   {
