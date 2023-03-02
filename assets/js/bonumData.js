@@ -112,12 +112,12 @@ const menuPricelist = [
       },
       {
         nama: 'Ayam Betutu Bali ½',
-        harga: 'Rp 55.000',
+        harga: 'Rp 65.000',
         url: './assets/img/ayam-betutu-setengah.webp',
       },
       {
         nama: 'Ayam Betutu Bali 1 Ekor',
-        harga: 'Rp 100.000',
+        harga: 'Rp 110.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -354,6 +354,18 @@ const menuPricelist = [
         nama: 'Lumpia Goreng (2pcs)',
         harga: 'Rp 12.000',
         url: './assets/img/lumpia-goreng.webp',
+      },
+      
+      {
+        nama: 'Risol Sayur',
+        harga: 'Rp 12.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      
+      {
+        nama: 'Risol Mayo',
+        harga: 'Rp 15.000',
+        url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Pempek Sagu Goreng (10pcs)',
