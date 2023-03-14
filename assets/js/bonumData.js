@@ -355,13 +355,11 @@ const menuPricelist = [
         harga: 'Rp 12.000',
         url: './assets/img/lumpia-goreng.webp',
       },
-      
       {
         nama: 'Risol Sayur',
         harga: 'Rp 12.000',
         url: './assets/img/image-coming-soon.webp',
       },
-      
       {
         nama: 'Risol Mayo',
         harga: 'Rp 15.000',
@@ -422,7 +420,7 @@ const menuPricelist = [
         harga: 'Rp 5.000',
         url: './assets/img/image-coming-soon.webp',
       },
-{
+      {
         nama: 'Liang Teh',
         harga: 'Rp 11.000',
         url: './assets/img/image-coming-soon.webp',
