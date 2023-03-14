@@ -422,6 +422,11 @@ const menuPricelist = [
         harga: 'Rp 5.000',
         url: './assets/img/image-coming-soon.webp',
       },
+{
+        nama: 'Liang Teh',
+        harga: 'Rp 11.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
       {
         nama: 'Teh Lemon Jahe Panas',
         harga: 'Rp 10.000',
