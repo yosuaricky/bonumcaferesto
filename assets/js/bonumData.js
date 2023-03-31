@@ -321,6 +321,11 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
+        nama: 'Popcorn Homemade',
+        harga: 'Rp 25.000',
+        url: './assets/img/image-coming-soon.webp',
+      },      
+      {
         nama: 'Snack Platter',
         harga: 'Rp 30.000',
         url: './assets/img/snack-platter.webp',
