@@ -270,11 +270,11 @@ const menuPricelist = [
         harga: 'Rp 30.000',
         url: './assets/img/nasi-goreng-seafood.webp',
       },
-      {
+      /*{
         nama: 'Nasi Siram Udang',
         harga: 'Rp 35.000',
         url: './assets/img/nasi-siram-udang.webp',
-      },
+      },*/
       {
         nama: 'Nasi Udang Oseng',
         harga: 'Rp 35.000',
@@ -324,7 +324,7 @@ const menuPricelist = [
         nama: 'Popcorn Homemade',
         harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
-      },      
+      },
       {
         nama: 'Snack Platter',
         harga: 'Rp 30.000',
