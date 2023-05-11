@@ -3,10 +3,12 @@
   background-color: #fff;
   color: #4b4c4d;
 }
+
 .footer-basic .social {
   text-align: center;
   padding-bottom: 25px;
 }
+
 .footer-basic .social > a {
   font-size: 24px;
   width: 40px;
@@ -20,9 +22,11 @@
   color: inherit;
   opacity: 0.75;
 }
+
 .footer-basic .social > a:hover {
   opacity: 0.9;
 }
+
 .footer-basic .copyright {
   margin-top: 15px;
   text-align: center;
