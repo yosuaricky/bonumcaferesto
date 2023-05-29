@@ -321,11 +321,6 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Pancake Durian',
-        harga: 'Rp 20.000',
-        url: './assets/img/pancake-durian.webp',
-      },
-      {
         nama: 'Pisang Laju',
         harga: 'Rp 15.000',
         url: './assets/img/pisang-laju.webp',
