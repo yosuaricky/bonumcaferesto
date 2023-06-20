@@ -136,21 +136,6 @@ const menuPricelist = [
         url: './assets/img/ayam-bakar.webp',
       },
       {
-        nama: 'Ayam Bakar Lodho ¼',
-        harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Ayam Bakar Lodho ½',
-        harga: 'Rp 50.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Ayam Bakar Lodho 1 Ekor',
-        harga: 'Rp 95.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
         nama: 'Nasi Ayam Geprek',
         harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
@@ -334,11 +319,6 @@ const menuPricelist = [
         nama: 'Fish & Chips',
         harga: 'Rp 35.000',
         url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Pancake Durian',
-        harga: 'Rp 20.000',
-        url: './assets/img/pancake-durian.webp',
       },
       {
         nama: 'Pisang Laju',
