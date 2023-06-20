@@ -223,7 +223,7 @@ const menuPricelist = [
       {
         nama: 'Chicken Rice Bowl Teriyaki',
         harga: 'Rp 35.000',
-        url: './assets/img/rice-bowl-teriyaki-chicken.jpg',
+        url: './assets/img/rice-bowl-teriyaki-chicken.webp',
       },
       {
         nama: 'Beef Bowl Sambal Matah',
