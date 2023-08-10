@@ -70,6 +70,11 @@ const menuPricelist = [
         harga: 'Rp 40.000',
         url: './assets/img/ayam-klungkung.webp',
       },
+      /*{
+        nama: 'Nasi Ayam Madura',
+        harga: 'Rp 30.000',
+        url: './assets/img/image-coming-soon.webp',
+      },*/
       {
         nama: 'Nasi Bebek Suramadu',
         harga: 'Rp 40.000',
@@ -150,6 +155,11 @@ const menuPricelist = [
         harga: 'Rp 25.000',
         url: './assets/img/nasi-daun-jeruk-kulit-goreng.webp',
       },
+      /*{
+        nama: 'Nasi Ayam Afrika',
+        harga: 'Rp 25.000',
+        url: './assets/img/image-coming-soon.webp',
+      },*/
     ],
   },
   {
@@ -170,16 +180,6 @@ const menuPricelist = [
   {
     category: 'Aneka Olahan Mie/Kwetiau',
     menu: [
-      {
-        nama: 'Lo Mie Ayam',
-        harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Lo Mie Seafood',
-        harga: 'Rp 32.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
       {
         nama: 'Mie Goreng Telur',
         harga: 'Rp 25.000',
@@ -255,11 +255,6 @@ const menuPricelist = [
         harga: 'Rp 30.000',
         url: './assets/img/nasi-goreng-seafood.webp',
       },
-      /*{
-        nama: 'Nasi Siram Udang',
-        harga: 'Rp 35.000',
-        url: './assets/img/nasi-siram-udang.webp',
-      },*/
       {
         nama: 'Nasi Udang Oseng',
         harga: 'Rp 35.000',
