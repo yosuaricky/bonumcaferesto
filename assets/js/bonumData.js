@@ -1,4 +1,5 @@
-const info = 'Please wash hand, wear mask, and maintain social distancing.';
+const info =
+  '🇮🇩 Semangat persatuan terus dikobarkan, 78 tahun Indonesia merdeka semoga jadi momentum kebangkitan kita semua! Dirgahayu Indonesiaku! 🇮🇩';
 
 const menuPricelist = [
   {
@@ -70,11 +71,11 @@ const menuPricelist = [
         harga: 'Rp 40.000',
         url: './assets/img/ayam-klungkung.webp',
       },
-      /*{
+      {
         nama: 'Nasi Ayam Madura',
         harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
-      },*/
+      },
       {
         nama: 'Nasi Bebek Suramadu',
         harga: 'Rp 40.000',
@@ -155,11 +156,11 @@ const menuPricelist = [
         harga: 'Rp 25.000',
         url: './assets/img/nasi-daun-jeruk-kulit-goreng.webp',
       },
-      /*{
+      {
         nama: 'Nasi Ayam Afrika',
-        harga: 'Rp 25.000',
+        harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
-      },*/
+      },
     ],
   },
   {
