@@ -1,4 +1,4 @@
-import { info, menuPricelist } from './bonumData.js';
+import { info, menuPricelist, menuCatering } from './bonumData.js';
 
 // change content of alert
 const showAlert = () => {
@@ -27,7 +27,7 @@ menuPricelist.forEach((item, index) => {
     id="flush-collapse${index}"
     class="accordion-collapse collapse"
     aria-labelledby="flush-heading${index}"
-    data-bs-parent="#accordionFlushExample"
+    data-bs-parent="#accordionFlush"
   >
     <div class="accordion-body"><em>*click menu to show details</em></div>
   </div>
@@ -61,6 +61,24 @@ menuPricelist.forEach((item, index) => {
     });
     accordionBody[index].append(menuButton);
   });
+});
+
+const cateringCard = document.querySelector('#cateringCard');
+menuCatering.forEach((item) => {
+  const cateringItem = document.createElement('div');
+  cateringItem.classList.add('col');
+  cateringItem.innerHTML = `<div class="card" style="width: 18rem">
+  <img src="${item.url}" class="card-img-top" alt="menu catering" />
+  <div class="card-body">
+    <h5 class="card-title">${item.nama}</h5>
+    <p class="card-text">
+      ${item.deskripsi}
+    </p>
+    <span class="badge bg-warning text-dark">${item.harga}</span>
+  </div>
+</div>`;
+
+  cateringCard.append(cateringItem);
 });
 
 window.addEventListener('DOMContentLoaded', showAlert);

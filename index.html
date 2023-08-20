@@ -70,7 +70,9 @@
     />
   </head>
 
-  <body style="font-family: Poppins, sans-serif">
+  <body
+    style="font-family: Poppins, sans-serif; max-width: 720px; margin: 0 auto"
+  >
     <div
       class="alert alert-warning alert-dismissible"
       role="alert"
@@ -263,7 +265,26 @@
           </div>
         </div>
       </div>
-      <div class="accordion accordion-flush" id="accordionFlushExample"></div>
+      <div class="accordion" id="accordionFlush"></div>
+      <h1
+        class="display-3"
+        style="
+          color: rgb(132, 76, 50);
+          text-align: center;
+          font-family: Lobster, serif;
+          margin-bottom: 0px;
+          padding-top: 30px;
+          padding-bottom: 30px;
+        "
+      >
+        Bonum Catering
+      </h1>
+      <div class="container-fluid mb-3">
+        <div
+          class="row flex-nowrap overflow-auto justify-content-between"
+          id="cateringCard"
+        ></div>
+      </div>
     </section>
     <section
       class="d-flex flex-column justify-content-evenly align-items-center"
@@ -321,9 +342,7 @@
               >
             </li>
             <li class="list-group-item">
-              <span style="font-size: 14px"
-                >We are close on Sunday</span
-              >
+              <span style="font-size: 14px">We are close on Sunday</span>
             </li>
             <li class="list-group-item">
               <em

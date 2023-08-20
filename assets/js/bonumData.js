@@ -795,4 +795,26 @@ const menuPricelist = [
   },
 ];
 
-export { info, menuPricelist };
+// Image size 300 x 250px
+const menuCatering = [
+  {
+    nama: 'Nasi Kuning',
+    deskripsi: 'Minimum order 20 box',
+    harga: 'Start from Rp 35.000 / box',
+    url: './assets/img/catering-nasi-kuning.webp',
+  },
+  {
+    nama: 'Nasi Bogana',
+    deskripsi: 'Minimum order 20 box',
+    harga: 'Start from Rp 35.000 / box',
+    url: './assets/img/catering-nasi-bogana.webp',
+  },
+  {
+    nama: 'Nasi Langgi',
+    deskripsi: 'Minimum order 20 box',
+    harga: 'Start from Rp 35.000 / box',
+    url: './assets/img/catering-nasi-langgi.webp',
+  },
+];
+
+export { info, menuPricelist, menuCatering };
