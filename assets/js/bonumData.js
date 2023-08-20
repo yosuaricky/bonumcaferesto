@@ -799,19 +799,22 @@ const menuPricelist = [
 const menuCatering = [
   {
     nama: 'Nasi Kuning',
-    deskripsi: 'Minimum order 20 box',
+    deskripsi:
+      'Nasi kuning, ayam goreng, mie/soun goreng jawa, sambal goreng kentang ati ampela, telur balado, dan orek tempe. Sudah termasuk sambal dan kerupuk. (Minimum order 20 box)',
     harga: 'Start from Rp 35.000 / box',
     url: './assets/img/catering-nasi-kuning.webp',
   },
   {
     nama: 'Nasi Bogana',
-    deskripsi: 'Minimum order 20 box',
+    deskripsi:
+      'Nasi putih, opor ayam, sambal goreng kentang, telur pindang, orek tempe, tumis kacang panjang, serundeng. Sudah termasuk sambal dan kerupuk. (Minimum order 20 box)',
     harga: 'Start from Rp 35.000 / box',
     url: './assets/img/catering-nasi-bogana.webp',
   },
   {
     nama: 'Nasi Langgi',
-    deskripsi: 'Minimum order 20 box',
+    deskripsi:
+      'Nasi putih, ayam goreng, sambal goreng kentang / tumis buncis, telur dadar iris, kering kentang, serundeng. Sudah termasuk sambal dan kerupuk. (Minimum order 20 box)',
     harga: 'Start from Rp 35.000 / box',
     url: './assets/img/catering-nasi-langgi.webp',
   },
