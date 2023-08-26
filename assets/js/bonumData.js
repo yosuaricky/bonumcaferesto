@@ -26,6 +26,11 @@ const menuPricelist = [
         harga: 'Rp. 45.000',
         url: './assets/img/bonum-chicken-steak.webp',
       },
+      {
+        nama: 'Bonum Crispy Chicken Steak',
+        harga: 'Rp. 50.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
     ],
   },
   {
@@ -408,17 +413,22 @@ const menuPricelist = [
       },
       {
         nama: 'Teh Lemon Jahe Panas',
-        harga: 'Rp 10.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Es Teh Lemon Jahe',
         harga: 'Rp 12.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
+        nama: 'Es Teh Lemon Jahe',
+        harga: 'Rp 15.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
         nama: 'Teh Jahe',
-        harga: 'Rp 7.000',
+        harga: 'Rp 9.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Es Teh Jahe',
+        harga: 'Rp 10.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -428,7 +438,7 @@ const menuPricelist = [
       },
       {
         nama: 'Es Susu Jahe Sereh',
-        harga: 'Rp 14.000',
+        harga: 'Rp 15.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -448,7 +458,7 @@ const menuPricelist = [
       },
       {
         nama: 'Milky Green Tea',
-        harga: 'Rp 13.000',
+        harga: 'Rp 18.000',
         url: './assets/img/green-tea.webp',
       },
       {
@@ -473,12 +483,12 @@ const menuPricelist = [
       },
       {
         nama: 'Hot Lychee Tea',
-        harga: 'Rp 10.000',
+        harga: 'Rp 12.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ice Lychee Tea',
-        harga: 'Rp 12.000',
+        harga: 'Rp 15.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -491,6 +501,11 @@ const menuPricelist = [
   {
     category: 'Coffee',
     menu: [
+      {
+        nama: 'Affogato',
+        harga: 'Rp 25.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
       {
         nama: 'Hot Coffee Latte',
         harga: 'Rp 20.000',
@@ -523,7 +538,7 @@ const menuPricelist = [
       },
       {
         nama: 'Hot Americano',
-        harga: 'Rp 17.000',
+        harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -533,7 +548,7 @@ const menuPricelist = [
       },
       {
         nama: 'Hot Long Black',
-        harga: 'Rp 17.000',
+        harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -548,17 +563,17 @@ const menuPricelist = [
       },
       {
         nama: 'Hot Mochaccino',
-        harga: 'Rp 20.000',
+        harga: 'Rp 22.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ice Mochaccino',
-        harga: 'Rp 25.000',
+        harga: 'Rp 27.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Hot Chocolate',
-        harga: 'Rp 17.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -573,32 +588,37 @@ const menuPricelist = [
       },
       {
         nama: 'Kopi Susu Regal Panas',
-        harga: 'Rp 18.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Es Kopi Susu Regal',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Hot Green Tea Latte',
-        harga: 'Rp 15.000',
+        harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ice Green Tea Latte',
-        harga: 'Rp 18.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ice Strawberry Latte',
-        harga: 'Rp 18.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Vanilla Frappuccino',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Irish Coffee Frappe',
+        harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
       },
     ],
@@ -633,12 +653,12 @@ const menuPricelist = [
       },
       {
         nama: 'Ice Chocolate',
-        harga: 'Rp 18.000',
+        harga: 'Rp 22.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Ice Chocolate Strawberry',
-        harga: 'Rp 20.000',
+        harga: 'Rp 25.000',
         url: './assets/img/ice-choco-strawberry.webp',
       },
       {
@@ -653,7 +673,7 @@ const menuPricelist = [
       },
       {
         nama: 'Milky Regal',
-        harga: 'Rp 15.000',
+        harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -668,12 +688,12 @@ const menuPricelist = [
     menu: [
       {
         nama: 'Strawberry Mojito',
-        harga: 'Rp 18.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Orange Mojito',
-        harga: 'Rp 18.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -687,13 +707,8 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Passion Fruit Squash',
-        harga: 'Rp 15.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
         nama: 'Lemon Squash',
-        harga: 'Rp 15.000',
+        harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -703,7 +718,7 @@ const menuPricelist = [
       },
       {
         nama: 'Red Splash',
-        harga: 'Rp 15.000',
+        harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
       },
     ],
@@ -712,23 +727,33 @@ const menuPricelist = [
     category: 'Juice',
     menu: [
       {
+        nama: 'Strawberry Juice',
+        harga: 'Rp 20.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
+        nama: 'Dragon Berry Juice',
+        harga: 'Rp 20.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
         nama: 'Soursop Juice',
         harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Mango Juice',
-        harga: 'Rp 18.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Guava Juice',
-        harga: 'Rp 18.000',
+        harga: 'Rp 20.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Avocado',
-        harga: 'Rp 20.000',
+        harga: 'Rp 22.000',
         url: './assets/img/image-coming-soon.webp',
       },
     ],
