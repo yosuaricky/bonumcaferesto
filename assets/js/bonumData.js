@@ -166,6 +166,11 @@ const menuPricelist = [
         harga: 'Rp 30.000',
         url: './assets/img/image-coming-soon.webp',
       },
+      {
+        nama: 'Nasi Kulit Cabe Garam',
+        harga: 'Rp 20.000',
+        url: './assets/img/nasi-kulit-cabe-garam.webp',
+      },
     ],
   },
   {
@@ -221,11 +226,6 @@ const menuPricelist = [
   {
     category: 'Aneka Olahan Nasi',
     menu: [
-      {
-        nama: 'Rice Bowl Taichan',
-        harga: 'Rp 35.000',
-        url: './assets/img/rice-bowl-taichan.webp',
-      },
       {
         nama: 'Chicken Rice Bowl Teriyaki',
         harga: 'Rp 35.000',
