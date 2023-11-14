@@ -1,5 +1,5 @@
 const info =
-  '🇮🇩 Semangat persatuan terus dikobarkan, 78 tahun Indonesia merdeka semoga jadi momentum kebangkitan kita semua! Dirgahayu Indonesiaku! 🇮🇩';
+  'Selamat datang di Bonum Cafe & Resto! Silahkan scroll ke bawah untuk melihat menu.. ';
 
 const menuPricelist = [
   {
@@ -105,6 +105,11 @@ const menuPricelist = [
         nama: 'Nasi Tutug Oncom',
         harga: 'Rp 35.000',
         url: './assets/img/nasi-tutug-oncom.webp',
+      },
+      {
+        nama: 'Nasi Pindang Patin Palembang',
+        harga: 'Rp 40.000',
+        url: './assets/img/nasi-pindang-patin.webp',
       },
       {
         nama: 'Tahu Tempe Bacem',
