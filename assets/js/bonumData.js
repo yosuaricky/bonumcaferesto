@@ -92,16 +92,6 @@ const menuPricelist = [
         url: './assets/img/bebek-penyet-sambal-korek.webp',
       },
       {
-        nama: 'Nasi Paru Babat Gongso',
-        harga: 'Rp 45.000',
-        url: './assets/img/nasi-paru-babat-gongso.webp',
-      },
-      {
-        nama: 'Sego Babat Khas Sidoarjo',
-        harga: 'Rp 45.000',
-        url: './assets/img/sego-babat.webp',
-      },
-      {
         nama: 'Nasi Tutug Oncom',
         harga: 'Rp 35.000',
         url: './assets/img/nasi-tutug-oncom.webp',
@@ -365,6 +355,11 @@ const menuPricelist = [
         nama: 'Pempek Kapal Selam',
         harga: 'Rp 27.000',
         url: './assets/img/pempek-kapal-selam.webp',
+      },
+      {
+        nama: 'Martabak Kari',
+        harga: 'Rp 25.000',
+        url: './assets/img/image-coming-soon.webp',
       },
       {
         nama: 'Roti Bakar Choco Crunchy',
@@ -802,9 +797,9 @@ const menuPricelist = [
         url: './assets/img/cocacola-fanta-sprite.webp',
       },
       {
-        nama: 'Premier Alkaline Oxygen Water',
+        nama: 'Pristine8.6+ 600ml',
         harga: 'Rp 8.000',
-        url: './assets/img/premier-alkaline.webp',
+        url: './assets/img/image-coming-soon.webp',
       },
     ],
   },
