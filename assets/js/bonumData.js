@@ -157,11 +157,6 @@ const menuPricelist = [
         url: './assets/img/nasi-daun-jeruk-kulit-goreng.webp',
       },
       {
-        nama: 'Nasi Ayam Afrika',
-        harga: 'Rp 30.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
         nama: 'Nasi Kulit Cabe Garam',
         harga: 'Rp 20.000',
         url: './assets/img/nasi-kulit-cabe-garam.webp',
