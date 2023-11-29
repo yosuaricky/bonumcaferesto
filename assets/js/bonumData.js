@@ -252,21 +252,6 @@ const menuPricelist = [
         url: './assets/img/nasi-goreng-seafood.webp',
       },
       {
-        nama: 'Nasi Udang Oseng',
-        harga: 'Rp 35.000',
-        url: './assets/img/nasi-udang-oseng.webp',
-      },
-      {
-        nama: 'Nasi Cumi Oseng',
-        harga: 'Rp 35.000',
-        url: './assets/img/nasi-cumi-oseng.webp',
-      },
-      {
-        nama: 'Nasi Seafood Oseng',
-        harga: 'Rp 35.000',
-        url: './assets/img/nasi-seafood-oseng.webp',
-      },
-      {
         nama: 'Nasi Putih',
         harga: 'Rp 8.000',
         url: './assets/img/image-coming-soon.webp',
@@ -323,21 +308,6 @@ const menuPricelist = [
       },
       {
         nama: 'Pisang Goreng Srikaya',
-        harga: 'Rp 15.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Lumpia Goreng (2pcs)',
-        harga: 'Rp 12.000',
-        url: './assets/img/lumpia-goreng.webp',
-      },
-      {
-        nama: 'Risol Sayur',
-        harga: 'Rp 12.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Risol Mayo',
         harga: 'Rp 15.000',
         url: './assets/img/image-coming-soon.webp',
       },
@@ -657,11 +627,6 @@ const menuPricelist = [
         url: './assets/img/ice-choco-strawberry.webp',
       },
       {
-        nama: 'Ice Ovaltine Macchiato',
-        harga: 'Rp 25.000',
-        url: './assets/img/ice-ovaltine-macchiato.webp',
-      },
-      {
         nama: 'Ice Taro',
         harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
@@ -749,26 +714,6 @@ const menuPricelist = [
       {
         nama: 'Avocado',
         harga: 'Rp 22.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-    ],
-  },
-  {
-    category: 'Cream Cheese Selection',
-    menu: [
-      {
-        nama: 'Matcha Cheese Cream',
-        harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Ice Chocolate Cheese Cream',
-        harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Creamy Blue Tea Cheese Cream',
-        harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
       },
     ],
