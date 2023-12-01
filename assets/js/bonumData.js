@@ -161,6 +161,11 @@ const menuPricelist = [
         harga: 'Rp 20.000',
         url: './assets/img/nasi-kulit-cabe-garam.webp',
       },
+      {
+        nama: 'Kulit Cabe Garam (Tanpa nasi)',
+        harga: 'Rp 15.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
     ],
   },
   {
