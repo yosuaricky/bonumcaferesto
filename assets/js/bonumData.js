@@ -82,8 +82,13 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Nasi Bebek Suramadu',
+        nama: 'Nasi Bebek Suramadu (Large)',
         harga: 'Rp 40.000',
+        url: './assets/img/nasi-bebek-suramadu.webp',
+      },
+{
+        nama: 'Nasi Bebek Suramadu (Medium)',
+        harga: 'Rp 35.000',
         url: './assets/img/nasi-bebek-suramadu.webp',
       },
       {
