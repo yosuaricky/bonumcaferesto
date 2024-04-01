@@ -2,7 +2,7 @@ const info =
   'Selamat datang di Bonum Cafe & Resto! Silahkan scroll ke bawah untuk melihat menu.. ';
 
 const menuPricelist = [
-  {
+  /*{
     category: 'Bonum Special Menu',
     menu: [
       {
@@ -32,7 +32,7 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
     ],
-  },
+  },*/
   {
     category: 'Tradisional',
     menu: [
@@ -86,7 +86,7 @@ const menuPricelist = [
         harga: 'Rp 40.000',
         url: './assets/img/nasi-bebek-suramadu.webp',
       },
-{
+      {
         nama: 'Nasi Bebek Suramadu (Medium)',
         harga: 'Rp 35.000',
         url: './assets/img/nasi-bebek-suramadu.webp',
@@ -188,7 +188,7 @@ const menuPricelist = [
       },
     ],
   },
-  {
+  /*{
     category: 'Aneka Olahan Mie/Kwetiau',
     menu: [
       {
@@ -222,11 +222,11 @@ const menuPricelist = [
         url: './assets/img/kwetiau-goreng-seafood.webp',
       },
     ],
-  },
+  },*/
   {
     category: 'Aneka Olahan Nasi',
     menu: [
-      {
+      /*{
         nama: 'Chicken Rice Bowl Teriyaki',
         harga: 'Rp 35.000',
         url: './assets/img/rice-bowl-teriyaki-chicken.webp',
@@ -240,7 +240,7 @@ const menuPricelist = [
         nama: 'Dori Bowl Sambal Matah',
         harga: 'Rp 35.000',
         url: './assets/img/dori.webp',
-      },
+      },*/
       {
         nama: 'Nasi Goreng Hongkong',
         harga: 'Rp 30.000',
