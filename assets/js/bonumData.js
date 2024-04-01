@@ -240,12 +240,17 @@ const menuPricelist = [
         nama: 'Dori Bowl Sambal Matah',
         harga: 'Rp 35.000',
         url: './assets/img/dori.webp',
-      },*/
+      },
       {
         nama: 'Nasi Goreng Hongkong',
         harga: 'Rp 30.000',
         url: './assets/img/nasi-goreng-hongkong.webp',
       },
+      {
+        nama: 'Nasi Goreng Seafood',
+        harga: 'Rp 30.000',
+        url: './assets/img/nasi-goreng-seafood.webp',
+      },*/
       {
         nama: 'Nasi Goreng Rumahan',
         harga: 'Rp 25.000',
@@ -255,11 +260,6 @@ const menuPricelist = [
         nama: 'Nasi Goreng Putih',
         harga: 'Rp 25.000',
         url: './assets/img/nasi-goreng-putih.webp',
-      },
-      {
-        nama: 'Nasi Goreng Seafood',
-        harga: 'Rp 30.000',
-        url: './assets/img/nasi-goreng-seafood.webp',
       },
       {
         nama: 'Nasi Putih',
