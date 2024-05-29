@@ -252,11 +252,6 @@ const menuPricelist = [
         url: './assets/img/nasi-goreng-rumahan.webp',
       },
       {
-        nama: 'Nasi Goreng Putih',
-        harga: 'Rp 25.000',
-        url: './assets/img/nasi-goreng-putih.webp',
-      },
-      {
         nama: 'Nasi Putih',
         harga: 'Rp 8.000',
         url: './assets/img/image-coming-soon.webp',
@@ -297,11 +292,6 @@ const menuPricelist = [
         url: './assets/img/snack-platter.webp',
       },
       {
-        nama: 'Fish & Chips',
-        harga: 'Rp 35.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
         nama: 'Pisang Laju',
         harga: 'Rp 15.000',
         url: './assets/img/pisang-laju.webp',
@@ -320,11 +310,6 @@ const menuPricelist = [
         nama: 'Pempek Sagu Goreng (10pcs)',
         harga: 'Rp 25.000',
         url: './assets/img/pempek-sagu.webp',
-      },
-      {
-        nama: 'Pempek Kapal Selam',
-        harga: 'Rp 27.000',
-        url: './assets/img/pempek-kapal-selam.webp',
       },
       {
         nama: 'Martabak Kari',
@@ -374,11 +359,6 @@ const menuPricelist = [
       {
         nama: 'Es Teh Manis',
         harga: 'Rp 5.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Liang Teh',
-        harga: 'Rp 11.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
@@ -471,11 +451,6 @@ const menuPricelist = [
   {
     category: 'Coffee',
     menu: [
-      {
-        nama: 'Affogato',
-        harga: 'Rp 25.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
       {
         nama: 'Hot Coffee Latte',
         harga: 'Rp 20.000',
@@ -699,11 +674,6 @@ const menuPricelist = [
       {
         nama: 'Dragon Berry Juice',
         harga: 'Rp 20.000',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Soursop Juice',
-        harga: 'Rp 18.000',
         url: './assets/img/image-coming-soon.webp',
       },
       {
