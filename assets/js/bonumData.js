@@ -312,6 +312,11 @@ const menuPricelist = [
         url: './assets/img/pempek-sagu.webp',
       },
       {
+        nama: 'Pempek Sosis 10pcs (Cuko / Mayo+Saos)',
+        harga: 'Rp 25.000',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      {
         nama: 'Martabak Kari',
         harga: 'Rp 25.000',
         url: './assets/img/image-coming-soon.webp',
