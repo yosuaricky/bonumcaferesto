@@ -61,7 +61,12 @@ menuPricelist.forEach((item, index) => {
       const modalBody = document.querySelector('.modal-body p');
       modalTitle.textContent = menuItem.nama;
       modalImage.src = menuItem.url;
-      modalBody.textContent = menuItem.harga;
+      modalBody.innerHTML =
+        /* HTML*/
+        `
+          <h5>${menuItem.harga}</h5>
+          <p>${menuItem.deskripsi}</p>
+        `;
     });
     accordionBody[index].append(menuButton);
   });
