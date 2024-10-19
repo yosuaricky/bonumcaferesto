@@ -370,7 +370,7 @@ const menuPricelist = [
         nama: 'Pempek Ikan Tenggiri (5pcs)',
         harga: 'Rp 25.000',
         deskripsi: '',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/pempek-ikan.webp',
       },
       {
         nama: 'Pempek Kapal Selam',
