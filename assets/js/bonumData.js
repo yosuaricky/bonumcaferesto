@@ -367,17 +367,25 @@ const menuPricelist = [
         url: './assets/img/pempek-sagu.webp',
       },
       {
-        nama: 'Pempek Sosis (10pcs)',
+        nama: 'Pempek Ikan Tenggiri (5pcs)',
         harga: 'Rp 25.000',
-        deskripsi: 'Dengan pilihan: Cuko / Saos & Mayonaise',
-        url: './assets/img/pempek-sosis.webp',
+        deskripsi: '',
+        url: './assets/img/image-coming-soon.webp',
       },
+      {
+        nama: 'Pempek Kapal Selam',
+        harga: 'Rp 27.000',
+        deskripsi: '',
+        url: './assets/img/image-coming-soon.webp',
+      },
+      /*
       {
         nama: 'Martabak Kari',
         harga: 'Rp 25.000',
         deskripsi: '',
         url: './assets/img/image-coming-soon.webp',
       },
+      */
       {
         nama: 'Roti Bakar Choco Crunchy',
         harga: 'Rp 12.000',
