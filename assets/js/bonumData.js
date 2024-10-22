@@ -101,18 +101,14 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/nasi-bebek-suramadu.webp',
       },
+      /*
       {
         nama: 'Bebek Penyet Sambal Korek',
         harga: 'Rp 35.000',
         deskripsi: '',
         url: './assets/img/bebek-penyet-sambal-korek.webp',
       },
-      {
-        nama: 'Nasi Tutug Oncom',
-        harga: 'Rp 35.000',
-        deskripsi: '',
-        url: './assets/img/nasi-tutug-oncom.webp',
-      },
+      */
       {
         nama: 'Nasi Pindang Patin Palembang',
         harga: 'Rp 40.000',
@@ -192,7 +188,7 @@ const menuPricelist = [
       },
       {
         nama: 'Kulit Cabe Garam (Tanpa nasi)',
-        harga: 'Rp 20.000',
+        harga: 'Rp 17.000',
         deskripsi: '',
         url: './assets/img/image-coming-soon.webp',
       },
@@ -302,12 +298,6 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Nasi Tutug',
-        harga: 'Rp 9.000',
-        deskripsi: '',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
         nama: 'Nasi Daun Jeruk',
         harga: 'Rp 9.000',
         deskripsi: '',
@@ -360,12 +350,14 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/image-coming-soon.webp',
       },
+      /*
       {
         nama: 'Pempek Sagu Goreng (10pcs)',
         harga: 'Rp 25.000',
         deskripsi: '',
         url: './assets/img/pempek-sagu.webp',
       },
+      */
       {
         nama: 'Pempek Ikan Tenggiri (5pcs)',
         harga: 'Rp 25.000',
