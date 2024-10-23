@@ -83,7 +83,7 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/nasi-krawu-gresik.webp',
       },
-*/
+/*
       {
         nama: 'Ayam Asap Khas Bali (Klungkung)',
         harga: 'Rp 40.000',
