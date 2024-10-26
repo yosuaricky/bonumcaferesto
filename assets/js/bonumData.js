@@ -2,42 +2,6 @@ const info =
   'Selamat datang di Bonum Cafe & Resto! Silahkan scroll ke bawah untuk melihat menu.. ';
 
 const menuPricelist = [
-  /*{
-    category: 'Bonum Special Menu',
-    menu: [
-      {
-        nama: 'Bonum Sirloin Meltique',
-        harga: 'Rp. 70.000',
-        deskripsi: '', 
-        url: './assets/img/bonum-sirloin-meltique.webp',
-      },
-      {
-        nama: 'Bonum Mystique Beef',
-        harga: 'Rp. 55.000',
-        deskripsi: '', 
-        url: './assets/img/bonum-mystique-beef.webp',
-      },
-
-      {
-        nama: 'Bonum Beef Pepper Rice',
-        harga: 'Rp. 50.000',
-        deskripsi: '', 
-        url: './assets/img/beef-pepper-rice-bonumbg.jpg',
-      },
-      {
-        nama: 'Bonum Chicken Steak',
-        harga: 'Rp. 45.000',
-        deskripsi: '', 
-        url: './assets/img/bonum-chicken-steak.webp',
-      },
-      {
-        nama: 'Bonum Crispy Chicken Steak',
-        harga: 'Rp. 50.000',
-        deskripsi: '', 
-        url: './assets/img/image-coming-soon.webp',
-      },
-    ],
-  },*/
   {
     category: 'Tradisional',
     menu: [
@@ -83,14 +47,6 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/nasi-krawu-gresik.webp',
       },
-/*
-      {
-        nama: 'Ayam Asap Khas Bali (Klungkung)',
-        harga: 'Rp 40.000',
-        deskripsi: '',
-        url: './assets/img/ayam-klungkung.webp',
-      },
-*/
       {
         nama: 'Nasi Ayam Madura',
         harga: 'Rp 30.000',
@@ -169,12 +125,6 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Nasi Daun Jeruk Kulit Goreng',
-        harga: 'Rp 25.000',
-        deskripsi: '',
-        url: './assets/img/nasi-daun-jeruk-kulit-goreng.webp',
-      },
-      {
         nama: 'Nasi Kulit Cabe Garam',
         harga: 'Rp 25.000',
         deskripsi: '',
@@ -205,80 +155,9 @@ const menuPricelist = [
       },
     ],
   },
-  /*{
-    category: 'Aneka Olahan Mie/Kwetiau',
-    menu: [
-      {
-        nama: 'Mie Goreng Telur',
-        harga: 'Rp 25.000',
-        deskripsi: '', 
-        url: './assets/img/mie-goreng-telur.webp',
-      },
-      {
-        nama: 'Mie Goreng Seafood',
-        harga: 'Rp 30.000',
-        deskripsi: '', 
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Kwetiau Siram Telur',
-        harga: 'Rp 30.000',
-        deskripsi: '', 
-        url: './assets/img/kwetiau-siram-telur.webp',
-      },
-      {
-        nama: 'Kwetiau Siram Seafood',
-        harga: 'Rp 32.000',
-        deskripsi: '', 
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Kwetiau Goreng Telur',
-        harga: 'Rp 25.000',
-        deskripsi: '', 
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
-        nama: 'Kwetiau Goreng Seafood',
-        harga: 'Rp 30.000',
-        deskripsi: '', 
-        url: './assets/img/kwetiau-goreng-seafood.webp',
-      },
-    ],
-  },*/
   {
     category: 'Aneka Olahan Nasi',
     menu: [
-      /*{
-        nama: 'Chicken Rice Bowl Teriyaki',
-        harga: 'Rp 35.000',
-        deskripsi: '', 
-        url: './assets/img/rice-bowl-teriyaki-chicken.webp',
-      },
-      {
-        nama: 'Beef Bowl Sambal Matah',
-        harga: 'Rp 35.000',
-        deskripsi: '', 
-        url: './assets/img/beef-bowl-sambal-matah.webp',
-      },
-      {
-        nama: 'Dori Bowl Sambal Matah',
-        harga: 'Rp 35.000',
-        deskripsi: '', 
-        url: './assets/img/dori.webp',
-      },
-      {
-        nama: 'Nasi Goreng Hongkong',
-        harga: 'Rp 30.000',
-        deskripsi: '', 
-        url: './assets/img/nasi-goreng-hongkong.webp',
-      },
-      {
-        nama: 'Nasi Goreng Seafood',
-        harga: 'Rp 30.000',
-        deskripsi: '', 
-        url: './assets/img/nasi-goreng-seafood.webp',
-      },*/
       {
         nama: 'Nasi Goreng Rumahan',
         harga: 'Rp 25.000',
@@ -315,12 +194,6 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
-        nama: 'Popcorn Homemade',
-        harga: 'Rp 25.000',
-        deskripsi: '',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      {
         nama: 'Snack Platter',
         harga: 'Rp 30.000',
         deskripsi: '',
@@ -344,14 +217,6 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/image-coming-soon.webp',
       },
-      /*
-      {
-        nama: 'Pempek Sagu Goreng (10pcs)',
-        harga: 'Rp 25.000',
-        deskripsi: '',
-        url: './assets/img/pempek-sagu.webp',
-      },
-      */
       {
         nama: 'Pempek Ikan Tenggiri (5pcs)',
         harga: 'Rp 25.000',
@@ -364,14 +229,6 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/image-coming-soon.webp',
       },
-      /*
-      {
-        nama: 'Martabak Kari',
-        harga: 'Rp 25.000',
-        deskripsi: '',
-        url: './assets/img/image-coming-soon.webp',
-      },
-      */
       {
         nama: 'Roti Bakar Choco Crunchy',
         harga: 'Rp 12.000',
