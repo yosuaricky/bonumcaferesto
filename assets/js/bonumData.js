@@ -103,14 +103,6 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/nasi-bebek-suramadu.webp',
       },
-      /*
-      {
-        nama: 'Bebek Penyet Sambal Korek',
-        harga: 'Rp 35.000',
-        deskripsi: '',
-        url: './assets/img/bebek-penyet-sambal-korek.webp',
-      },
-      */
       {
         nama: 'Nasi Pindang Patin Palembang',
         harga: 'Rp 40.000',
