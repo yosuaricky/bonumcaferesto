@@ -227,7 +227,7 @@ const menuPricelist = [
         nama: 'Pempek Kapal Selam',
         harga: 'Rp 27.000',
         deskripsi: '',
-        url: './assets/img/image-coming-soon.webp',
+        url: './assets/img/pempek-kapal-selam.webp',
       },
       {
         nama: 'Roti Bakar Choco Crunchy',
