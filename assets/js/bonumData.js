@@ -230,6 +230,12 @@ const menuPricelist = [
         url: './assets/img/pempek-kapal-selam.webp',
       },
       {
+        nama: 'Pempek Kulit',
+        harga: 'Rp 3.500',
+        deskripsi: '',
+        url: './assets/img/pempek-kulit.webp',
+      },
+      {
         nama: 'Roti Bakar Choco Crunchy',
         harga: 'Rp 12.000',
         deskripsi: '',
