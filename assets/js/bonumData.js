@@ -75,7 +75,7 @@ const menuPricelist = [
   },
   {
     category: 'Aneka Olahan Ayam',
-    menu: [
+    menu: [/*
       {
         nama: 'Ayam Betutu Bali ¼',
         harga: 'Rp 35.000',
@@ -111,7 +111,7 @@ const menuPricelist = [
         harga: 'Rp 100.000',
         deskripsi: '',
         url: './assets/img/ayam-bakar.webp',
-      },
+      },*/
       {
         nama: 'Nasi Ayam Geprek',
         harga: 'Rp 30.000',
