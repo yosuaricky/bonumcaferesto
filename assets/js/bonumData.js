@@ -236,11 +236,11 @@ const menuPricelist = [
         url: './assets/img/pempek-kulit.webp',
       },
       {
-221     nama: 'Tekwan',
-222     harga: 'Rp 25.000',
-223     deskripsi: '',
-224     url: './assets/img/tekwan.webp',
-225   },
+        nama: 'Tekwan',
+        harga: 'Rp 25.000',
+        deskripsi: '',
+        url: './assets/img/tekwan.webp',
+      },
       {
         nama: 'Roti Bakar Choco Crunchy',
         harga: 'Rp 12.000',
