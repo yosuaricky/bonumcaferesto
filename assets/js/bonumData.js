@@ -42,12 +42,6 @@ const menuPricelist = [
         url: './assets/img/nasi-liwet-solo.webp',
       },
       {
-        nama: 'Nasi Krawu Gresik',
-        harga: 'Rp 30.000',
-        deskripsi: '',
-        url: './assets/img/nasi-krawu-gresik.webp',
-      },
-      {
         nama: 'Nasi Ayam Madura',
         harga: 'Rp 30.000',
         deskripsi: '',
