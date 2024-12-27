@@ -229,6 +229,12 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/pempek-kulit.webp',
       },
+      
+        nama: 'Pempek Adaan (1pcs)',
+        harga: 'Rp 5.000',
+        deskripsi: '',
+        url: './assets/img/pempek-adaan.webp',
+      },
       {
         nama: 'Tekwan',
         harga: 'Rp 25.000',
