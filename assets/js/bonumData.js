@@ -229,7 +229,7 @@ const menuPricelist = [
         deskripsi: '',
         url: './assets/img/pempek-kulit.webp',
       },
-      
+      {
         nama: 'Pempek Adaan (1pcs)',
         harga: 'Rp 5.000',
         deskripsi: '',
