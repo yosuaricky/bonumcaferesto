@@ -212,6 +212,12 @@ const menuPricelist = [
         url: './assets/img/image-coming-soon.webp',
       },
       {
+	nama: 'Pempek Ikan Tenggiri (satuan)',
+	harga: 'Rp 6.000',
+	deskripsi: 'Telur / Lenjer / Adaan / Keriting',
+	url: './assets/img/image-coming-soon.webp',
+      },
+      {
         nama: 'Pempek Ikan Tenggiri (5pcs)',
         harga: 'Rp 25.000',
         deskripsi: '',
